@@ -1,1 +1,2 @@
 TIME VARCHAR2;
+Tinh nang cua Tu
