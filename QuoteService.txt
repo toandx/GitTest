@@ -1,7 +1,9 @@
 Hoang sua tinh nang ban dau
+Hoang hotfix master
+Hoang hotfix blueprint
+Hoang update code
 Toan update feature
 Minh update requirement
-Toan code them ticket
 Toan cherry pick
 Hoang update code
 Develop update
