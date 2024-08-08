@@ -1,3 +1,4 @@
 Hoang sua tinh nang ban dau
+Hoang rat ban tinh
 Toan update feature
 Minh update requirement
