@@ -2,3 +2,4 @@ Hoang sua tinh nang ban dau
 Toan update feature
 Minh update requirement
 Toan code them ticket
+Toan buc minh qua
