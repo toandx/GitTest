@@ -1,7 +1,7 @@
 Hoang sua tinh nang ban dau
-Hoang rat ban tinh
-Nhi update requirement
-Toan fix voi develop
+Toan update feature
+Minh update requirement
+Toan code them ticket
 Toan cherry pick
 
 Feature, develop base master. feature commit, master hot fix, develop cherry pick
