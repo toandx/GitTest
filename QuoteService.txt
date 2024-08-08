@@ -1,4 +1,5 @@
 Hoang sua tinh nang ban dau
 Hoang rat ban tinh
 Nhi update requirement
+Toan fix voi develop
 Toan cherry pick
