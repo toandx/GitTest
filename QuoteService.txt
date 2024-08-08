@@ -3,6 +3,7 @@ Toan update feature
 Minh update requirement
 Toan code them ticket
 Toan cherry pick
+Hoang update code
 Develop update
 
 Feature, develop base master. feature commit, master hot fix, develop cherry pick
