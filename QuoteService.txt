@@ -1,2 +1,3 @@
 Hoang sua tinh nang ban dau
 Hoang hotfix master
+Hoang hotfix blueprint
