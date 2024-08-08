@@ -3,3 +3,7 @@ Hoang rat ban tinh
 Nhi update requirement
 Toan fix voi develop
 Toan cherry pick
+
+Feature, develop base master. feature commit, master hot fix, develop cherry pick
+Toan tao fix-conflict base feature, pull develop -> develop
+feature -> develop FAIL
