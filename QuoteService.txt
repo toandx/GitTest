@@ -1,2 +1,3 @@
 Hoang sua tinh nang ban dau
 Toan update feature
+Minh update requirement
