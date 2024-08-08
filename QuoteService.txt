@@ -11,3 +11,5 @@ Develop update
 Feature, develop base master. feature commit, master hot fix, develop cherry pick
 Toan tao fix-conflict base feature, pull develop -> develop
 feature -> develop FAIL
+Toan code them ticket
+Toan buc minh qua
